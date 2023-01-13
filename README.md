@@ -1,4 +1,4 @@
-This is the public official Repository from our hackathon group (Pauline Kraus, Russell, Anna, Osvaldo Felices, Pierre Basck)
+This is the public official Repository from our hackathon group (Pauline Kraus, Russell Corpuz, Anna Valchuk, Osvaldo Felices, Pierre Basck)
 This hackathon took place from 10/01/23 to 13/01/23 and was hosted by Wild Code School with the participation of Amazon.
 
 
